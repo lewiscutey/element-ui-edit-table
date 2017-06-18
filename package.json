@@ -1,0 +1,22 @@
+{
+  "name": "element-ui-edit-table",
+  "version": "1.0.0",
+  "description": "行内编辑",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewiscutey/element-ui-edit-table.git"
+  },
+  "keywords": [
+    "edit-table"
+  ],
+  "author": "lewis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lewiscutey/element-ui-edit-table/issues"
+  },
+  "homepage": "https://github.com/lewiscutey/element-ui-edit-table#readme"
+}
