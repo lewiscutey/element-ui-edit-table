@@ -1,7 +1,5 @@
 <template>
-    <div id="edit-table">
-        
-    </div>
+
 </template>
 <script>
 
